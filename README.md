@@ -3,5 +3,5 @@
 > By Rawsab Said and Muneeb Farrukh
 
 ## About the project:
-* We utilized behavioral VHDL to develop an interactive HVAC system on a field programmable gate array (FPGA) board utilizing custom-designed components, such as binary counters, bidirectional shift registers, multiplexers, and comparators.
-* Moreover, we  integrated the FPGA-based HVAC system with existing hardware, allowing user control through switches and push buttons and also allowed for visual feedback through light-emitting diodes and seven-segment programming.
+* Behavioral VHDL was utilized to develop an interactive HVAC system on a field programmable gate array (FPGA) board. Custom-designed components, such as binary counters, bidirectional shift registers, multiplexers, and comparators were used and implemented in this project.
+* Moreover, the FPGA-based HVAC system was integrated with existing hardware, allowing for user control through switches and push buttons and also allowing for visual feedback through light-emitting diodes (LEDs) and a seven-segment display.
